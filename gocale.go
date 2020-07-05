@@ -36,13 +36,13 @@ import(
 // language name and word entries (in dictionary form).
 type Locale struct {
 	// Plain language name
-	Language		string
+	Language	string
 
 	// ISO language code of the locale.
 	LanguageCode	string
 
 	// Provides the dictionary for key and value of translation entries.
-	Dictionary		map[string] string
+	Dictionary	map[string] string
 }
 
 // Localizing strings with templates. The key should be put between "{." and "}."
