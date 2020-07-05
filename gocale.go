@@ -1,3 +1,5 @@
+// File: gocale.go
+//
 // The MIT Public License
 //
 // Copyright 2020 Jonathan Eldy Isip-Baldivicio
